@@ -1,0 +1,2 @@
+[29-Apr-2019 13:17:23 Europe/London] PHP Notice:  ZipArchive::addFile(): Empty string as filename in /home/mcs/public_html/wp-content/themes/salient-child/my-file-download.php on line 24
+[02-May-2019 20:39:15 Europe/London] PHP Notice:  ZipArchive::addFile(): Empty string as filename in /home/mcs/public_html/wp-content/themes/salient-child/my-file-download.php on line 24
